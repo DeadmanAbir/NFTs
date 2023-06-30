@@ -55,6 +55,6 @@ To run the tests for the smart contracts, run the following command:
 - [ERC721](https://testnets.opensea.io/collection/sepolia-4)
 - [ERC1155](https://testnets.opensea.io/assets/sepolia/0x6565e4447923a8709071aaad7ef4f7c77ed46348/0)
 
-- <b>Connect with me :</b> Click
+- <b>Connect with me :</b> [Click](https://abir-dutta-porfolio.netlify.app/)
 
 
